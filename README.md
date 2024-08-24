@@ -30,7 +30,8 @@ To use this script, you'll need to have a userscript manager installed in your w
 
 2. **Click the "Extract Emails" Button**:
    - A new "Extract Emails" button will appear in the D2L interface. Click this button to extract all email addresses from the class list.
-
+     ![image](https://github.com/user-attachments/assets/7e637065-9ee2-4d75-91c1-372ebd4a5ec2)
+   - Make sure all users are listed on the page. You may need to change numbers of users listed on the page. 
 3. **Use the Email List in Other Systems**:
    - The email addresses will be copied to your clipboard automatically. You can now paste them directly into the AWS Academy Learning Management System or any other platform.
 
